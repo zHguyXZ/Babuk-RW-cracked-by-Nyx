@@ -1,2 +1,8 @@
-# Babuk-RW-cracked-by-Nyx
-Cracked version of Babuk Ransomware Including the missing Locker files. Including source code.
+![azd](https://i.imgur.com/Pl13W4h.jpg)
+
+## Babuk RansomWare Cracked by NyxTeam 👑 
+
+## ⚠️ 〢 DISCLAIMER
+This project can only be used for educational purposes. Using this software against target systems without prior permission is illegal, and any damages from misuse of this software will not be the responsibility of the author.
+
+# Like this project? Feel free to leave a star 🌟
